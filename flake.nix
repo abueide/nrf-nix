@@ -137,6 +137,7 @@
               ninja
               cmake
               zephyrPython
+              git
             ]));
             myVscode = vscode-with-extensions.override {
               vscode = vscodeFhs;
